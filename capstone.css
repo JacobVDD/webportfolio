@@ -1,0 +1,15 @@
+*{font-family: 'Anton', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Source Serif 4', sans-serif;}
+
+
+#banner{
+	background-size: cover;
+background-position: center;
+
+	background-image: url(https://images.pexels.com/photos/8294606/pexels-photo-8294606.jpeg?cs=srgb&dl=pexels-pavel-danilyuk-8294606.jpg&fm=jpg;)
+}
+
+body{
+	background-color: #A59E8C;
+}

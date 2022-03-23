@@ -1,0 +1,14 @@
+*{
+	font-family: 'Anton', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Source Serif 4', sans-serif;
+}
+
+body{
+	background-color: #A59E8C;
+}
+
+#pics{
+	width: 500px;
+	height: 500px;
+}
